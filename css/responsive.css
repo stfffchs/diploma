@@ -3253,8 +3253,8 @@
     width: 35px;
     cursor: pointer !important;
     height: 35px;
-    border: solid #2A5D49 2px;
-    border-radius: 5px;
+    /* border: solid #2A5D49 2px;
+    border-radius: 5px; */
     z-index: 9;
     }
     .menu-mobile {
