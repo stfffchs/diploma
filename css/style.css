@@ -1157,10 +1157,10 @@ section .social_icons {
 }
 
 .slide_cont h2 {
-    color: #fff;
+    color: black;
     font-size: 55px;
     font-weight: 600;
-    line-height: 60px;
+    line-height: 80px;
     margin: 0;
     letter-spacing: -1px;
     margin-bottom: 30px;
@@ -1168,7 +1168,7 @@ section .social_icons {
 
 #banner_parallax p, 
 #banner_slide p {
-    color: #fff;
+    color: black;
     font-weight: 300;
     margin-top: 10px;
     position: relative;

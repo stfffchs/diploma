@@ -2024,7 +2024,7 @@
         margin-bottom: 0;
     }
     .slide_bt .bt_main {
-        border: solid #1e72bc 1px;
+        border: solid #2A5D49 1px;
         line-height: 43px;
     }
     .home_page1 .padding_right_left_15 {
@@ -3253,13 +3253,13 @@
     width: 35px;
     cursor: pointer !important;
     height: 35px;
-    border: solid #1e72bc 2px;
+    border: solid #2A5D49 2px;
     border-radius: 5px;
     z-index: 9;
     }
     .menu-mobile {
         text-align: center;
-        color: #1e72bc;
+        color: #2A5D49;
         font-size: 18px;
     }
     .menu-mobile:hover,
