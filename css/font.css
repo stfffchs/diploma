@@ -27,6 +27,7 @@ h6 {
 
 h1 {
     font-size: 4.209rem;
+
 }
 
 h2 {
@@ -41,6 +42,8 @@ h2 {
 
 h3 {
     font-size: 2.369rem;
+    padding-top: 30px;
+
     /* color: #000;
     line-height: normal;
     font-weight: 700; */
