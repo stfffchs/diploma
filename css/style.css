@@ -39,12 +39,12 @@ body {
     overflow-x: hidden !important;
 }
 
-body {
+/* body {
     overflow: hidden !important;
-}
+} */
 
 a {
-    color: #1f1f1f;
+    color: black;
     text-decoration: none !important;
     outline: none !important;
     -webkit-transition: all .3s ease-in-out;
@@ -75,7 +75,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-    color: #212121;
+    color: black;
     text-decoration: none!important;
     opacity: 1
 }
@@ -87,7 +87,7 @@ ul {
 }
 
 a {
-    color: #000;
+    color: black;
     text-decoration: none;
     outline: none;
 }
@@ -186,13 +186,13 @@ button {
 .field button {
     background: #97CAB6;
     color: #fff;
-    font-size: 14px;
+    font-size: .8rem;
     width: auto;
     float: left;
     text-align: center;
     height: 48px;
     border-radius: 5px;
-    line-height: 50px;
+    line-height: normal;
     font-weight: 500;
     border: none;
     margin-top: 15px;
@@ -238,7 +238,7 @@ button {
     padding-bottom: 50px !important;
 }
 
-.color_black p,
+/* .color_black p,
 .color_black p.large,
 .color_black ul,
 .color_black ul li {
@@ -279,7 +279,7 @@ button {
     color: #767676;
     margin: 0;
     padding: 0;
-}
+} */
 
 blockquote {
     margin: 20px 0 20px;
@@ -1260,7 +1260,7 @@ h3.heading_2 {
 .app-features h4 {
     text-transform: none;
     font-weight: 500;
-    color: #666;
+    /* color: #666; */
     margin-top: 10px;
     margin-bottom: 10px;
 }

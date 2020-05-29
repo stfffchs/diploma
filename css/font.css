@@ -1,7 +1,7 @@
 html,
 body {
-    color: darkgray;
-    font-size: 1rem;
+    color: #4f4f4f;
+    font-size: 0.9rem;
     font-family: 'Roboto', sans-serif;
     line-height: normal;
     font-weight: 300;
@@ -16,7 +16,7 @@ h5,
 h6 {
     font-family: 'Sen', sans-serif;
     line-height: normal;
-    font-weight: 600;
+    font-weight: 700;
     letter-spacing: 0;
     position: relative;
     padding: 0;
@@ -24,58 +24,58 @@ h6 {
     margin: 0
 }
 
-h6 {
-    font-size: 14px;
-    margin-bottom: 10px;
-}
 
 h1 {
-    font-size: 4rem;
+    font-size: 4.209rem;
 }
 
 h2 {
-    font-size: 54px;
-    font-weight: 500;
+    font-size: 3.157rem;
+    /* font-weight: 500;
     letter-spacing: -2px;
     position: relative;
     margin-bottom: 25px;
     line-height: 50px;
-    position: relative;
+    position: relative; */
 }
 
 h3 {
-    font-size: 24px;
-    color: #000;
+    font-size: 2.369rem;
+    /* color: #000;
     line-height: normal;
-    font-weight: 700;
+    font-weight: 700; */
     text-transform: uppercase;
 }
 
 h4 {
-    font-size: 18px;
-    color: #000;
+    font-size: 1.777rem;
+    /* color: #000;
     line-height: 21px;
     font-weight: 600;
     text-transform: uppercase;
-    margin: 30px 0 20px 0;
+    margin: 30px 0 20px 0; */
 }
 
 h5 {
-    font-size: 15px;
-    font-weight: 700;
+    font-size: 1.333rem;
+    /* font-weight: 700;
     text-transform: uppercase;
     margin: 0;
     line-height: normal;
-    color: #000;
+    color: #000; */
+}
+
+h6 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
 }
 
 p {
-    color: #999;
     font-size: 1.2rem;
     line-height: 1.7rem;
 }
 
-p.large {    font-size: 16px;
+/* p.large {    font-size: 16px;
     font-weight: 400;
 }
 
@@ -83,7 +83,7 @@ p.large_2 {
     font-weight: 500;
     font-size: 14px;
     color: #000;
-}
+} */
 
 
 
