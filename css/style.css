@@ -1082,7 +1082,7 @@ section .social_icons {
 }
 
 .slide_banner1 {
-    background-image: url('../images/slide1.png');
+    background-image: url('../images/slide-faceit.png');
     min-height: 600px;
     position: relative;
     background-repeat: no-repeat;
@@ -1143,6 +1143,17 @@ section .social_icons {
     background-size: auto;
     background-position: bottom center;
 }
+
+.slide_banner8 {
+    background-image: url('../images/slide-hifi.png');
+    min-height: 600px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: bottom center;
+}
+
+
 
 .slide_pc_img {
     position: relative;
