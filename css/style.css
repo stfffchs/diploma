@@ -1083,7 +1083,7 @@ section .social_icons {
 
 .slide_banner1 {
     background-image: url('../images/slide1.png');
-    min-height: 450px;
+    min-height: 600px;
     position: relative;
     background-repeat: no-repeat;
     background-size: auto;
@@ -1092,7 +1092,52 @@ section .social_icons {
 
 .slide_banner2 {
     background-image: url('../images/slide2.png');
-    min-height: 450px;
+    min-height: 600px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: bottom center;
+}
+
+.slide_banner3 {
+    background-image: url('../images/slide-wireframe.png');
+    min-height: 600px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: bottom center;
+}
+
+.slide_banner4 {
+    background-image: url('../images/slide-interview.png');
+    min-height: 600px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: bottom center;
+}
+
+.slide_banner5 {
+    background-image: url('../images/slide-testing.png');
+    min-height: 600px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: bottom center;
+}
+
+.slide_banner6 {
+    background-image: url('../images/slide-concept.png');
+    min-height: 600px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: bottom center;
+}
+
+.slide_banner7 {
+    background-image: url('../images/slide-thx.png');
+    min-height: 600px;
     position: relative;
     background-repeat: no-repeat;
     background-size: auto;
