@@ -1090,6 +1090,15 @@ section .social_icons {
     background-position: bottom center;
 }
 
+.slide_banner2 {
+    background-image: url('../images/slide2.png');
+    min-height: 450px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: bottom center;
+}
+
 .slide_pc_img {
     position: relative;
     z-index: 1;
@@ -1121,6 +1130,13 @@ section .social_icons {
 
 #banner_slide img {
     width: 100%;
+}
+
+.iframe{
+    width:100%;
+    height:0;
+    padding-bottom:57%;
+    position: relative;
 }
 
 .home_page1 .slide_cont {
@@ -1903,5 +1919,7 @@ ul.pagination li.page-item.active .page-link {
     float: left;
     width: 25%;
 }
+
+
 
 
