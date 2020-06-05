@@ -1090,68 +1090,7 @@ section .social_icons {
     background-position: bottom center;
 }
 
-.slide_banner2 {
-    background-image: url('../images/slide2.png');
-    min-height: 600px;
-    position: relative;
-    background-repeat: no-repeat;
-    background-size: auto;
-    background-position: bottom center;
-}
 
-.slide_banner3 {
-    background-image: url('../images/slide-wireframe.png');
-    min-height: 600px;
-    position: relative;
-    background-repeat: no-repeat;
-    background-size: auto;
-    background-position: bottom center;
-}
-
-.slide_banner4 {
-    background-image: url('../images/slide-interview.png');
-    min-height: 600px;
-    position: relative;
-    background-repeat: no-repeat;
-    background-size: auto;
-    background-position: bottom center;
-}
-
-.slide_banner5 {
-    background-image: url('../images/slide-testing.png');
-    min-height: 600px;
-    position: relative;
-    background-repeat: no-repeat;
-    background-size: auto;
-    background-position: bottom center;
-}
-
-.slide_banner6 {
-    background-image: url('../images/slide-concept.png');
-    min-height: 600px;
-    position: relative;
-    background-repeat: no-repeat;
-    background-size: auto;
-    background-position: bottom center;
-}
-
-.slide_banner7 {
-    background-image: url('../images/slide-thx.png');
-    min-height: 600px;
-    position: relative;
-    background-repeat: no-repeat;
-    background-size: auto;
-    background-position: bottom center;
-}
-
-.slide_banner8 {
-    background-image: url('../images/slide-hifi.png');
-    min-height: 600px;
-    position: relative;
-    background-repeat: no-repeat;
-    background-size: auto;
-    background-position: bottom center;
-}
 
 
 
@@ -1162,12 +1101,13 @@ section .social_icons {
 }
 
 .slide_pc_img img {
-    margin-top: 110px;
+    margin-top: 20%;
     float: left;
     margin-right: 0;
     position: relative;
-    right: 150px;
+    /* right: 20%; */
     margin-bottom: 0;
+    width: 120%;
 }
 
 #banner_slide .cont_banner_center {
