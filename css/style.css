@@ -304,6 +304,7 @@ blockquote {
 
 .img-responsive {
     max-width: 100%;
+    border-radius: 20px;
 }
 
 button,
@@ -1100,9 +1101,11 @@ section .social_icons {
     float: left;
     margin-right: 0;
     position: relative;
-    /* right: 20%; */
+    right: 20px;
     margin-bottom: 0;
     width: 120%;
+    border-radius: 20px; 
+
 }
 
 #banner_slide .cont_banner_center {
