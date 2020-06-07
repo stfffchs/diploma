@@ -3283,12 +3283,15 @@
         width: 100%;
         float: none;
         display: block;
-        border-bottom: solid #ddd 2px;
+        padding-bottom: 5px;
+        padding-top: 5px;
+ 
     }
     .menu > ul > li a {
         padding: 10px 15px 10px;
         width: 100%;
         display: block;
+        font-size: 1.3rem;  
     }
     .menu > ul > li > ul {
         position: relative;
