@@ -316,6 +316,13 @@ blockquote {
     border-radius: 20px;
 }
 
+.img-gallery{
+    width: auto;
+    object-fit: cover;
+    height: auto;
+    border-radius: 20px; 
+}
+
 .img-responsive {
     max-width: 100%;
     border-radius: 20px;
@@ -1101,7 +1108,6 @@ section .social_icons {
     background-size: auto;
     background-position: bottom center;
 }
-
 
 
 
