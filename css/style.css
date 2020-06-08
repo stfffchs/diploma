@@ -28,6 +28,13 @@
     -o-transition: ease all 0.5s;
 }
 
+.whitespace100{
+    margin-bottom: 100px;
+    }
+
+.whitespace200{
+margin-bottom: 200px;
+}
 
 input,button,select,textarea {
 	outline: none !important;
@@ -701,6 +708,7 @@ section .small_head h2 {
 .margin_bottom_30 {
     margin-bottom: 30px; 
 }
+
 
 .padding_top_0 {
     padding-top: 0 !important;
