@@ -1109,6 +1109,10 @@ section .social_icons {
     background-position: bottom center;
 }
 
+svg {
+    width: 50%;
+    border: 1px dashed indianred;
+  }
 
 
 
