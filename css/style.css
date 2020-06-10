@@ -224,7 +224,10 @@ button {
 .border_circle_bt {
 border: solid gray 1px;}
 
-
+.border-drawing{
+    border: solid #97CAB6 1px;
+    border-radius: 20px;
+}
 
 .padding-bottom_0 {
     padding-bottom: 0 !important;
@@ -252,6 +255,10 @@ border: solid gray 1px;}
 
 .padding-bottom_5 {
     padding-bottom: 50px !important;
+}
+
+.img-width100{
+    width: 100%;
 }
 
 /* .color_black p,
