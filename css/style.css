@@ -75,7 +75,7 @@ a {
     margin-bottom: 20px;
     width: 100%;
 }
-
+/*
 h1 a,
 h2 a,
 h3 a,
@@ -86,9 +86,9 @@ p a {
     background-color: #CBE4DB;
     text-decoration: none!important;
     opacity: 1
-}
+}*/
 
-h1 a,
+ h1 a,
 h2 a,
 h3 a,
 h4 a,
@@ -96,7 +96,7 @@ h5 a,
 h6 a,
 p a:hover {
     background-color: #97CAB6;
-  }
+  } 
 
 ol,
 ul,
