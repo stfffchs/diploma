@@ -17,15 +17,15 @@
     background-color: #2A5D49;
 }
 
-.bt_main {
-    background: #2A5D49;
+/* .bt_main {
+    background: #97CAB6;
 }
 
 .bt_main:hover,
 .bt_main:focus {
-    background: #111;
+    background: #2A5D49;
     color: #fff;
-}
+} */
 
 .reverse_bt.bt_main {
     background: #97CAB6;
@@ -36,7 +36,7 @@
     background: #2A5D49;
 }
 
-.white_bt.bt_main {
+/* .white_bt.bt_main {
     color: #2A5D49;
 }
 
@@ -44,7 +44,7 @@
 .white_bt.bt_main:focus {
     background: #97CAB6;
     color: #fff;
-}
+} */
 
 footer ul.social_icons li a:hover {
     color: #2A5D49;

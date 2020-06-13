@@ -86,7 +86,7 @@ p a {
     background-color: #CBE4DB;
     text-decoration: none!important;
     opacity: 1
-}*/
+}
 
  h1 a,
 h2 a,
@@ -96,7 +96,7 @@ h5 a,
 h6 a,
 p a:hover {
     background-color: #97CAB6;
-  } 
+  } */
 
 ol,
 ul,
@@ -166,37 +166,36 @@ button {
 
 .bt_main {
 
-    color: #fff;
-    font-size: 14px;
+    color: #2A5D49;
+    font-size: 1rem;
     min-width: 148px;
-    float: left;
     text-align: center;
-    height: 48px;
     line-height: 50px;
-    
+    border-radius: 20px;
     border: none;
-    padding: 0 35px;
+    padding: 0 30px;
     transition: ease all 0.5s;
+    margin: 0 20px;
 
 }
 
 .bt_main:hover,
 .bt_main:focus {
-    color: #fff;
+    color: #97CAB6;
 }
 
 .reverse_bt.bt_main {
     color: #fff;
 }
 
-.white_bt.bt_main {
+/* .white_bt.bt_main {
     background: #fff;
-}
+} 
 
 .white_bt.bt_main:hover,
 .white_bt.bt_main:focus {
     color: #fff;
-}
+}*/
 
 .field button {
     background: #97CAB6;
